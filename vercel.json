@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/(.*)",
-      "destination": "https://github.com/$1"
+      "destination": "http://tgsou.fish2018.ip-ddns.com/$1"
     }
   ]
 }
